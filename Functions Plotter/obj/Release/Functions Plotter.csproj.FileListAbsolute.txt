@@ -1,0 +1,28 @@
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\bin\Release\Functions Plotter.exe.config
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\bin\Release\Functions Plotter.exe
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\bin\Release\Functions Plotter.pdb
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\obj\Release\Functions Plotter.csprojResolveAssemblyReference.cache
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\obj\Release\Functions_Plotter.Form1.resources
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\obj\Release\Functions_Plotter.Properties.Resources.resources
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\obj\Release\Functions Plotter.csproj.GenerateResource.Cache
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\obj\Release\Functions Plotter.exe
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\obj\Release\Functions Plotter.pdb
+D:\MaryamSanandaji\Net\Function-Plotter-master\Functions Plotter\obj\Release\Functions Plotter.csproj.AssemblyReference.cache
+D:\MaryamSanandaji\Net\Function-Plotter-master\Functions Plotter\obj\Release\Functions_Plotter.Form1.resources
+D:\MaryamSanandaji\Net\Function-Plotter-master\Functions Plotter\obj\Release\Functions_Plotter.Properties.Resources.resources
+D:\MaryamSanandaji\Net\Function-Plotter-master\Functions Plotter\obj\Release\Functions Plotter.csproj.GenerateResource.cache
+D:\MaryamSanandaji\Net\Function-Plotter-master\Functions Plotter\obj\Release\Functions Plotter.csproj.CoreCompileInputs.cache
+D:\MaryamSanandaji\Net\Function-Plotter-master\Functions Plotter\obj\Release\Functions Plotter.exe
+D:\MaryamSanandaji\Net\Function-Plotter-master\Functions Plotter\obj\Release\Functions Plotter.pdb
+D:\MaryamSanandaji\Net\Function-Plotter-master\Functions Plotter\bin\Release\Functions Plotter.exe.config
+D:\MaryamSanandaji\Net\Function-Plotter-master\Functions Plotter\bin\Release\Functions Plotter.exe
+D:\MaryamSanandaji\Net\Function-Plotter-master\Functions Plotter\bin\Release\Functions Plotter.pdb
+D:\MaryamSanandaji\Github\Function-Plotter-master\Functions Plotter\bin\Release\Functions Plotter.exe.config
+D:\MaryamSanandaji\Github\Function-Plotter-master\Functions Plotter\bin\Release\Functions Plotter.exe
+D:\MaryamSanandaji\Github\Function-Plotter-master\Functions Plotter\bin\Release\Functions Plotter.pdb
+D:\MaryamSanandaji\Github\Function-Plotter-master\Functions Plotter\obj\Release\Functions_Plotter.Form1.resources
+D:\MaryamSanandaji\Github\Function-Plotter-master\Functions Plotter\obj\Release\Functions_Plotter.Properties.Resources.resources
+D:\MaryamSanandaji\Github\Function-Plotter-master\Functions Plotter\obj\Release\Functions Plotter.csproj.GenerateResource.cache
+D:\MaryamSanandaji\Github\Function-Plotter-master\Functions Plotter\obj\Release\Functions Plotter.csproj.CoreCompileInputs.cache
+D:\MaryamSanandaji\Github\Function-Plotter-master\Functions Plotter\obj\Release\Functions Plotter.exe
+D:\MaryamSanandaji\Github\Function-Plotter-master\Functions Plotter\obj\Release\Functions Plotter.pdb
